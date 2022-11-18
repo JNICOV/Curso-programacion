@@ -1,0 +1,11 @@
+                   Mientras / WHILE
+
+
+while (Expresion logica) {
+
+Secuencia de acciones
+
+}
+
+
+-------------------------------------------

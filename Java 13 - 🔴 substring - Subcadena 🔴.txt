@@ -1,0 +1,12 @@
+                              substring - Subcadena(En pseint)
+
+Recorta un caracter (desde hasta) de una cadena
+
+
+variable.substring(desde, hasta)
+
+Ejemplo:
+
+String letra=frase.substring(i, i+1);
+
+

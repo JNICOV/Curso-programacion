@@ -1,0 +1,22 @@
+
+-Escribir en consola y mostrar en pantalla
+
+
+       System.out.println("palabra");
+
+
+ Atajo: Escribimos sout y luego tabulamos.
+
+-------------------------------------------------
+
+-Para ingresar por teclado
+
+
+       String variable=leer.nextLine(); Para texto
+
+       String variable=leer.nextInt(); Para numero entero
+ 
+       String variable=leer.nextFloat(); Para numero con decimales
+
+
+Nota: Luego del next va el tipo de variable que recibira el dato

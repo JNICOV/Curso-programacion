@@ -1,0 +1,30 @@
+                               if / else
+
+
+if(condición){
+
+     sentencias A
+
+} else {
+
+     sentencias B
+
+}
+----------------------------------------
+
+if (condicion 1) {
+
+    sentencias A
+
+} else if(condicion 2){
+
+    sentencias B
+
+} else {
+
+    sentencias C
+
+}
+
+
+----------------------------------------

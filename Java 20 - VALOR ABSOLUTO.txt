@@ -1,0 +1,19 @@
+                                  VALOR ABSOLUTO
+
+El valor absoluto de un numero es la distancia que tiene hasta el cero
+
+el valor absoluto de un numero positivo es el mimo numero
+
+pero de un numero negativo es el mimo numero pero en positivo
+
+ya que a distancia hasta el cero siempre es positiva
+
+ej
+
+ 0 - - - - 5 = el valor abjoluto es 5
+-5 - - - - 0 = El valor absoluto es 5
+
+para calcular el valor absoluto de un negativo podemos multiplicar por -1
+ya que menos por menos es mas y d el mismo numero positivo
+
+ej: -5 x -1 = 5

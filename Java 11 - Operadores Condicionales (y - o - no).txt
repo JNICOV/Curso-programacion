@@ -1,0 +1,10 @@
+                   Operadores Condicionales
+
+
+&&  ----- AND (y)
+
+||  ----- OR  (o)
+
+!   ----- Operador logico de negacion (no)
+
+-------------------------------------------

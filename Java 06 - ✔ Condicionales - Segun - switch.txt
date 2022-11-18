@@ -1,0 +1,24 @@
+                   Segun / switch
+
+
+switch (variable) {
+   case 1:
+        Secuencia de acciones;
+        break;
+   case 2:
+        Secuencia de acciones;
+        break;
+   case 3:
+        Secuencia de acciones;
+        break;
+   default:
+        Secuencia de acciones;
+}
+
+-------------------------------------------
+Nota1: Al final de cada caso va break
+      para evitar que siga ejecutando
+
+Nota2: "default" reemplaza a "de otro modo" de pseit
+
+-------------------------------------------

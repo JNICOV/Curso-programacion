@@ -1,0 +1,16 @@
+     Ecuals
+
+Para comparar variables de tipo cadena
+
+En vez de poner una expresion logica
+
+Respuesta1 = Respuesta2
+
+(Se podria aplicar en una estructura condicional
+Ej si Respuesta1 es = a respuesta2 hacer tal cosa)
+
+En java y por ser de tipo cadena (String)
+se pone asi
+
+respuesta1.equalsIgnoreCase(respuesta2)
+

@@ -1,0 +1,28 @@
+                    PROCEDIMIENTOS
+
+
+public static void NombreFuncion([Tipo] nombreArgumento, ....) {
+
+Bloque de instrucciones
+
+
+}
+
+-------------------------------------------
+Ejemplo
+-------------------------------------------
+
+public static void suma(int num1, int num2){
+
+int suma
+
+suma= num1 + num2;
+
+System.out.println("La suma de los dos numeros es "+suma);
+
+}
+
+----------------------------------------------------------------
+Dato: Las variables se definen en el algoritmo y cuando se pasan 
+      como argumentos se vuelve a indicar el tipo
+----------------------------------------------------------------

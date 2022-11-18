@@ -1,0 +1,66 @@
+                         NUMERO ALEATOREO (RANDOM)
+
+Antes de poder hacer uso dl Random
+debemos instalar la herramienta
+
+debemos escribir: 
+
+
+
+
+-------------------------------------------------------------
+***********  Random aleatoreo = new Random();   ***********  
+-------------------------------------------------------------
+
+y con alta + enter nos da la opcion de instalarlo
+
+una vez instalado debemos crear una variable
+para alojar la info aleatorea
+
+-------------------------------------------------------------
+
+Ej:
+
+// Creamos variable: 
+
+
+
+
+-------------------------------------------------------------
+         ***********  int num;  ***********  
+-------------------------------------------------------------
+
+// le asignamos a esa variable el Random hasta que numero
+
+
+
+
+
+-------------------------------------------------------------
+***********  numero=aleatoreo.nextInt(100);  ***********  
+-------------------------------------------------------------
+ 
+// 100 es el numero que le puse (de 0 hasta 100)
+
+
+
+
+
+--------------------------------------------------------------
+
+      ***********  DESDE - HASTA:  ***********  
+
+--------------------------------------------------------------
+
+aleatoreo.nextInt(NUM MAXIMO - NUM MINIMO + 1) + NUM MINIMO;
+
+Ej:
+
+aleatoreo.nextInt(100-20+1)+20;
+--------------------------------------------------------------
+Con un float o double, si te da decimales por debajo de cero poner asi
+
+aleatoreo.nextFloat()*99;
+
+
+

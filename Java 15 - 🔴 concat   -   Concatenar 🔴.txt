@@ -1,0 +1,14 @@
+                              concat- Concatenar(En pseint)
+
+
+Pega una variable cadena con otra
+
+
+variable1=variable2.concat(variable3);
+
+-------------------------------------------
+Ejemplo:
+
+String palabra1=palabra2.concat(palabra3);
+-------------------------------------------
+

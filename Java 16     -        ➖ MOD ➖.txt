@@ -1,0 +1,8 @@
+                                    MOD (En pseint)
+
+
+A % B == 0 (Es par. Es multiplo)
+
+A % B == 1 (Es impar. No es multiplo)
+
+

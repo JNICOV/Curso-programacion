@@ -1,0 +1,66 @@
+
+
+
+ENTEROS: byte - short - int - long
+
+DECIMALES: float - double
+
+LOGICO: boolean
+
+CADENA: char (comillas simples ALT+39)- String
+
+
+----------------------------------------------------------------------------------------
+
+
+- byte: 
+
+         Es un entero de 8 bits, el mínimo valor que se puede almacenar es -128 y 
+         el máximo valor es de 127 (inclusive).
+
+- short: 
+
+         Es un entero de 16 bits. El valor mínimo es -32,768 y el valor máximo 
+         32,767 (inclusive).
+
+- int: 
+
+         Es un entero de 32 bits. El valor mínimo es -2,147,483,648 y el valor 
+         máximo es 2,147,483,64 (inclusive). Generalmente es la opción por defecto.
+
+- long: 
+
+         Es un entero de 64 bits, el valor mínimo que puede almacenar este tipo de 
+         dato es -9,223,372,036,854,775,808 y el máximo valor es 
+         9,223,372,036,854,775,807 (inclusive).
+
+----------------------------------------------------------------------------------
+
+- float: 
+
+         Es un número decimal de precisión simple de 32 bits (IEEE 754 Punto Flotante).
+
+- double: 
+
+         Es un número decimal de precisión doble de 64 bits (IEEE 754 Punto Flotante). 
+
+------------------------------------------------------------------------------------
+
+- boolean: 
+
+         Dato logico - verdadero o falso y el dato es 
+         representado con tan solo un bit de información.
+
+------------------------------------------------------------------------------------
+
+- char:
+
+        El tipo de dato carácter es un simple carácter unicode de 16 bits.
+
+- String: 
+
+        Cadena
+
+
+
+--------------------------------------------------------------------------------------

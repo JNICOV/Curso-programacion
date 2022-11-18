@@ -1,0 +1,11 @@
+                   Hacer Mientras / DO - WHILE
+
+
+do {
+
+Secuencia de acciones
+
+} while (Expresion logica);
+
+
+-------------------------------------------

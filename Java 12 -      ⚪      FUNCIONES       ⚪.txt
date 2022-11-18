@@ -1,0 +1,32 @@
+                    FUNCIONES
+
+
+public static tipo NombreFuncion([Tipo] nombreArgumento, ....) {
+
+Bloque de instrucciones
+
+return valor;
+
+}
+
+-------------------------------------------
+Ejemplo
+-------------------------------------------
+
+public static int suma(int num1, int num2){
+
+int suma
+
+suma= num1 + num2;
+
+return suma;
+
+}
+
+----------------------------------------------------------------
+Dato: Las variables se definen en el algoritmo y cuando se pasan 
+      como argumentos se vuelve a indicar el tipo
+----------------------------------------------------------------
+Dato: El tipo de funcion (int suma) es por el tipo de dato que se
+      va a retornar
+----------------------------------------------------------------

@@ -1,0 +1,12 @@
+                              length- Longitud(En pseint)
+
+Devuelve la longitud de una cadena
+
+
+variable = variable.length();
+
+Ejemplo:
+
+int num = palabra.length();
+
+

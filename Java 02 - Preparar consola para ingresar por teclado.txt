@@ -1,0 +1,14 @@
+
+-Para poder ingresar por teclado escribir la siguiente sentencia 
+ debajo del package
+
+  import java.util.Scanner;
+
+
+-Luego escribir la siguiente sentencia antes de comenzar a codear
+
+  Scanner leer = new Scanner(System.in);
+
+ Si te saltea lineas al final poner 
+
+  .useDelimiter("\n") 

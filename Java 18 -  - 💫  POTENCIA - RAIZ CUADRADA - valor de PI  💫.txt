@@ -1,0 +1,20 @@
+                         POTENCIA, VALOR DE PI Y RAIZ CUADRADA
+
+En ambos casos siempre da un resultado "double"(decimal)
+--------------------------------------------------------------------------
+
+POTENCIA:
+
+double variable= Math.pow(a, b); ---> a es el numero y b es la potencia
+--------------------------------------------------------------------------
+
+
+RAIZ CUADRADA
+
+double variable=Math.sqrt(numero); ----> numero es el numero o variable del cual queremos saber la                                          raiz cuadrada
+
+--------------------------------------------------------------------------
+
+PI
+
+Math.PI
